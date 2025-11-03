@@ -26,6 +26,17 @@ By the way, this is a functional link where you can learn more.
 
 ![Logo do ISA](./images/logoISA.png)
 
+
 Can you explain the path to the image?
+
+
+The path `./images/logoISA.png` means that the image file is located inside a folder called `images` which is in the same directory as this Markdown file. The `./` indicates the current directory.
+
+
+| ID | Column 1 | Column 2 | Column 3 |
+|----|-----------|-----------|-----------|
+| 1  | item 1    | item 2    | item 3    |
+| 2  | item 4    | item 5    | item 6    |
+
 
 
